@@ -1,0 +1,5 @@
+{
+  "TEST_API_URL": "https://httpbin.test.k6.io",
+  "TEST_GET_API": "https://test-api.k6.io",
+  "AWS_S3_BUCKET_NAME": ""
+}
