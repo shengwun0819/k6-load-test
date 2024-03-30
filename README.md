@@ -2,10 +2,11 @@
 Manage test scenarios & scripts for API Load-Testing
 
 ## Environment
-### K6
-    - k6 v0.36.0
-    - Node v16.13.0
-    - npm
+```
+k6 v0.36.0
+Node v16.13.0
+npm
+```
 
 ## Directory Structure
 ```bash
