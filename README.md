@@ -31,7 +31,7 @@ Manage test scenarios & scripts for API Load-Testing
 ```
 
 ## Environment Variables
-1. You can follow `env_sample.json` to mantain variables which is use in your project.
+1. You can follow `env_sample.json` to copy & mantain variables which is use in your project.
 ### Install
 1. Install package: `$ npm i`
 2. Install [k6](<https://k6.io/docs/get-started/installation/>): `$ brew install k6`
